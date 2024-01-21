@@ -55,3 +55,11 @@ li button {
   cursor: pointer;
   border-radius: 4px;
 }
+li button {
+  background-color: #ff5050;
+  color: #fff;
+  border: none;
+  padding: 4px;
+  cursor: pointer;
+  border-radius: 4px;
+}
